@@ -1,3 +1,5 @@
 This is file A.
 
 Let me change something....
+
+Checking new changes
